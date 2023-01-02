@@ -10,4 +10,5 @@
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MsSql-007396?style=flat&logoColor=white">
 </div>
