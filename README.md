@@ -1,9 +1,8 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MJ&fontSize=90" /
   <br/><br/><br/><br/>
-  <h>:zap:Tech Stack</h>
-  <br/><br/>
-  
+  <h3>:zap: Tech Stack</h3>
+  <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
